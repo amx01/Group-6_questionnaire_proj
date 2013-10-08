@@ -21,8 +21,9 @@ build reproducible code for visualization.
 * Visualization (1 min 15 secs)
 * Conclusion (45 secs)
 
-Presentation Link:
-http://nbviewer.ipython.org/248365e052181361794a
+Presentation Link: http://nbviewer.ipython.org/248365e052181361794a
+
+Project submission Link: https://github.com/stat157/questionnaire/wiki/How-To-Submit-Your-Homework
 
 ### Reproducibility: 
 * The code is 100% reproducible. All you need is our end product gp6.ipynb that runs in the ipython notebook, your google account and internet connection. We have integrated everything to work within python, including plotting graphs in R.
