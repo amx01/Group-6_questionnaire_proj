@@ -17,9 +17,9 @@ we explore different tools to handle and interpret the underlying relationship o
 build reproducible code for visualization.
 
 ### Presentation outline:
-* Data cleaning (1 min 30 secs)
-* Visualization (1 min)
-* Conclusion (30 secs)
+* Data cleaning (1 min)
+* Visualization (1 min 15 secs)
+* Conclusion (45 secs)
 
 Presentation Link:
 http://nbviewer.ipython.org/248365e052181361794a
