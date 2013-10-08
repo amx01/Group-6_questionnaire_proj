@@ -25,7 +25,7 @@ Presentation Link:
 http://nbviewer.ipython.org/248365e052181361794a
 
 ### Reproducibility: 
-* The code is 100% reproducible. All you need is our end product at the ipython notebook, your google account and internet connection. We have integrated everything to work within python, including plotting graphs in R.
+* The code is 100% reproducible. All you need is our end product gp6.ipynb that runs in the ipython notebook, your google account and internet connection. We have integrated everything to work within python, including plotting graphs in R.
 * We will make use of the gspread package to retrieve google spreadsheet data in the set up process. Don't forget to edit the stat157.cfg file with your bmail account and the bconnected key to log in via the API to access data.
 * To ensure the visualization part works properly, you will have your matplotlib, numpy, pandas, rpy/rpy2 and rmagic package installed in python. Also, make sure your system contains R.
 
